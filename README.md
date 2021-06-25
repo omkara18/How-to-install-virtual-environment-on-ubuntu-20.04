@@ -12,6 +12,5 @@ virtualenv venv
 
 # Active your virtual environment
 source venv/bin/activate
-
 # To dectivate
 dectivate
