@@ -4,7 +4,8 @@ virtual environment create using python3 for pycharm and visualstudio code in ub
 :
 
 # install pip first :
-sudo apt-get install python3-pip
+
+       sudo apt-get install python3-pip
 
 # Then install virtualenv using pip3:
 sudo pip3 install virtualenv
